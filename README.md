@@ -20,7 +20,7 @@
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,c#,cs,xaml,c++,figma,javascript,mysql,Python,MAUi" width="35%">
+  <img src="https://skillicons.dev/icons?i=dotnet,c#,XAML,C++,figma,mysql,PYTHON,MAUi" width="35%">
   </p>  
   <p>  
  
