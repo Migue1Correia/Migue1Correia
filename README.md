@@ -25,7 +25,7 @@
 <h3 align="center"><strong>💻 My Skills</strong></h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,python,figma,mysql,visualstudio,vscode,html,css" width="70%" alt="skills icons" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,figma,mysql,visualstudio,vscode,html,css" width="70%" alt="skills icons" />
 </div>
 
 <br><br>
