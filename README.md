@@ -1,5 +1,5 @@
 <!-- 💫 Think Different -->
-<h1 align="center">Hi 👋, I'm Miguel S C Silva 🇨🇩 🇧🇷</h1>
+<h1 align="center">Hi 👋, I'm Miguel S C Silva  🇧🇷</h1>
 
 <div align="center">
   <!-- Typing Animation -->
